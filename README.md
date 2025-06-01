@@ -115,17 +115,6 @@ gis_data (
 | POST | `/api/update.php` | Update data GIS |
 | POST | `/api/delete.php` | Hapus data GIS |
 
-## 📸 Screenshots
-
-![Map Interface](docs/screenshots/map-interface.png)
-*Interface peta dengan drawing tools*
-
-![Drawing Feature](docs/screenshots/drawing-feature.png)
-*Proses menggambar polygon*
-
-![Feature Popup](docs/screenshots/feature-popup.png)
-*Popup informasi feature*
-
 ## 🚧 Development Roadmap
 
 - [ ] Implementasi user authentication
