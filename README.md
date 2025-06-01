@@ -1,9 +1,9 @@
 # Sistem Informasi Geospatial (SIG) - Web GIS CRUD Application
 
 > **Tugas Mata Kuliah Sistem Informasi Geospatial**  
-> Program Studi: [Nama Program Studi]  
-> Universitas: [Nama Universitas]  
-> Semester: [Semester/Tahun]
+> Program Studi: Teknik Informatika
+> Universitas: Tanjungpura 
+> Semester: 6/2025
 
 ## 📋 Deskripsi Project
 
